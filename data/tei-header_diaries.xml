@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI
+  SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Insert Document Title Here
+                </title>
+                <author>
+                    Insert Author Name Here
+                </author>
+                <respStmt>
+                    <resp>
+                        Insert Name of Project Responsible for Transcription
+                    </resp>
+                    <name>
+                        Insert Name of Project Lead
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>
+                    Insert Distributor Name Here
+                </distributor>
+                <address>
+     <addrLine/>
+    </address>
+                <idno type="Insert Your Type Here">
+                    Insert ID Number Here
+                </idno>
+                <availability>
+                    <p>
+                        Insert Copyright Data Here
+                    </p>
+                </availability>
+                <date when="Insert Date Here">
+                    Insert Date Here
+                </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    Enter Bibliographical Information Here
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>
+                    Insert Project Here
+                </p>
+            </projectDesc>
+        </encodingDesc>
+        <revisionDesc>
+            <list>
+                <item>
+                    <date when="Insert Date of Last Edit">
+                        Insert Date of Last Edit
+                    </date>
+                    Last checked
+                </item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
